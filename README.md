@@ -2,7 +2,7 @@
 Using the Extremum Seeking Control technique to extract maximum active power from the photovoltaic system.
 Implementation in Simulink version R2019.
 
-![PV cell](https://github.com/rosasalberto/Control-PV-System/blob/master/images/photovoltaic-cell.jpg)
+![PV cell](https://github.com/rosasalberto/Control-PV-System/blob/master/images/photovoltaic-cell.jpg = 100x100)
 
 ## Introduction
 
